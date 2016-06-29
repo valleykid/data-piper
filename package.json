@@ -1,0 +1,11 @@
+{
+  "name": "datapiper",
+  "version": "0.0.1",
+  "description": "ajax(jsonp) & ws & pipe...",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "vk",
+  "license": "MIT"
+}
