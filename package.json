@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "ajax(jsonp) & ws & pipe...",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valleykid/datapiper.git"
+  },
   "scripts": {
     "test": "npm test"
   },
