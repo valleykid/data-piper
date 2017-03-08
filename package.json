@@ -1,11 +1,11 @@
 {
-  "name": "datapiper",
+  "name": "data-piper",
   "version": "0.0.1",
-  "description": "ajax(jsonp) & ws & pipe...",
+  "description": "fetch/ajax(jsonp) & ws & pipe...",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/valleykid/datapiper.git"
+    "url": "https://github.com/valleykid/data-piper.git"
   },
   "scripts": {
     "test": "npm test"
